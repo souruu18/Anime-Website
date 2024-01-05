@@ -1,0 +1,139 @@
+h1{
+background-color: cyan;
+font-family: Arial;
+opacity: 100%;
+width: 70px
+}
+
+  a.bw{
+        background-color: ;
+        color:cyan;
+        border-radius: 25px;
+        border: 2px solid orangered;
+        padding: 5px 5px;
+        text-align:center;
+        text-decoration: none;
+        display:inline-block;
+           }
+  a.cc{
+        background-color: ;
+        color:red;
+        border-radius: 25px;
+        border: 2px solid green;
+        padding: 5px 5px;
+        text-align:center;
+        text-decoration: none;
+        display:inline-block;
+           }
+  a.dg{
+        background-color: ;
+        color: cyan ;
+        border-radius: 25px;
+        border: 2px solid yellow;
+        padding: 3px 3px;
+        text-align:center;
+        text-decoration: none;
+        display:inline-block;
+           }
+
+  a.mtp{
+        background-color: ;
+        color:white ;
+        border-radius: 25px;
+        border: 2px solid blue;
+        padding: 3px 3px;
+        text-align:center;
+        text-decoration: none;
+        display:inline-block;
+           }
+ a.gs{
+        background-color:  ;
+        color:#1E90FF ;
+        border-radius: 25px;
+        border: 2px solid red;
+        padding: 3px 3px;
+        text-align:center;
+        text-decoration: none;
+        display:inline-block;
+           }
+ a.h{
+        background-color:;
+        color:#85C1E9;
+        border-radius: 25px;
+        border: 2px solid white;
+        padding: 3px 3px;
+        text-align:center;
+        text-decoration: none;
+        display:inline-block;
+           }
+ a.iq{
+        background-color: ;
+        color:#EC7063;
+        border-radius: 25px;
+        border: 2px solid white;
+        padding: 3px 3px;
+        text-align:center;
+        text-decoration: none;
+        display:inline-block;
+           }
+ a.rg{
+        background-color:;
+        color:#FF8C00;
+        border-radius: 25px;
+        border: 2px solid cyan;
+        padding: 3px 3px;
+        text-align:center;
+        text-decoration: none;
+        display:inline-block;
+           }
+ a.kg{
+        background-color:;
+        color:#F7DC6F;
+        border-radius: 25px;
+        border: 2px solid blue;
+        padding: 3px 3px;
+        text-align:center;
+        text-decoration: none;
+        display:inline-block;
+           }
+ a.rg:hover
+      {
+        background-color: cyan
+      }
+a.bw:hover
+      {
+        background-color:red
+      }
+
+ a.dg:hover
+      {
+        background-color:black
+      }
+ a.cc:hover
+      {
+        background-color: grey
+      }
+ a.gs:hover
+      {
+        background-color:red
+      }
+ a.mtp:hover
+      {
+        background-color:green
+      }
+ a.h:hover
+      {
+        background-color:white
+      }
+ a.iq:hover
+      {
+        background-color:white
+      }
+ a.agm:hover
+      {
+        background-color:black
+      }
+ a.kg:hover
+      {
+        background-color:blue
+      }
